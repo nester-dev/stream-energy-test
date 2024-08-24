@@ -29,5 +29,4 @@
     "postcss.config.mjs",
     "tailwind.config.ts"
   ],
-  "references": [{ "path": "./tsconfig.node.json" }]
 }
